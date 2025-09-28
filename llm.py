@@ -6,7 +6,7 @@ from vertexai.generative_models import (
 )
 
 # Google Cloudの認証情報を設定
-PROJECT_ID = "sacred-result-473402-e7"
+PROJECT_ID = *****
 REGION = "us-central1"
 vertexai.init(project=PROJECT_ID, location=REGION)
 model = GenerativeModel(
