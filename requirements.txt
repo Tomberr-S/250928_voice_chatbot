@@ -1,0 +1,11 @@
+numpy
+pydub
+
+google-cloud-aiplatform
+google-cloud-speech
+google-cloud-texttospeech
+google-auth
+requests
+streamlit
+audio_recorder_streamlit
+langchain
